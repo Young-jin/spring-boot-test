@@ -9,6 +9,7 @@ public class DemoControllor {
 	@RequestMapping(value = "/test")
 	public String test(){
 		return "";
+		
 	}
 
 }
