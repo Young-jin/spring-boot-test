@@ -21,5 +21,10 @@ public class DemoControllor {
 		return "";
 		
 	}
+	@RequestMapping(value = "/test4")
+	public String test4(){
+		return "";
+		
+	}
 
 }
