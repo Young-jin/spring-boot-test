@@ -13,6 +13,8 @@ public class DemoControllor {
 	@RequestMapping(value = "/test")
 	public String test(){
 		
+		log.info("test ½ÇÇà");
+		
 		return "";
 		
 	}
